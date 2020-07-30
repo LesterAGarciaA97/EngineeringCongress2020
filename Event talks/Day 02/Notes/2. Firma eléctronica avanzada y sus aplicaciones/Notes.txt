@@ -1,0 +1,21 @@
+Firma eléctronica avanzada y sus aplicaciones
+
+Una firma electronica puede dar validez y peso
+jurídico, tiene un nivel probatorio.
+
+
+Elementos de una firma eléctronica avanzada
+
+* Utiliza algoritmos cripptográficos seguros. Llave pública y Llave privada
+* Certificado digital
+* Identidad del titular
+* Identidad de la autoridad certificadora
+
+
+Beneficios de la firma electrónica avanzada
+
+* Seguridad jurídica en las transacciones electrónicas
+* Firma de contratos a distancia, certificaciones, documentación en general
+* Optimizar el uso de los recursos, disminución de costos y uso de papel
+* Mejora al nivel de servicio, procesos ágiles.
+
